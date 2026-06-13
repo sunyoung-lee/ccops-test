@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "nodetool-*",
+      "jsdoc"
+    ],
+    "deny": [
+      "github-cli-*"
+    ]
+  }
+}
